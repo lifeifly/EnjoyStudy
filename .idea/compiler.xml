@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="1.7">
+      <module name="EnjoyStudy.app" target="1.8" />
+      <module name="EnjoyStudy.base" target="1.8" />
+      <module name="EnjoyStudy.common" target="1.8" />
+      <module name="EnjoyStudy.customview" target="1.8" />
+      <module name="EnjoyStudy.mylibrary" target="1.8" />
+      <module name="EnjoyStudy.skinmanage" target="1.8" />
+      <module name="EnjoyStudy.webview" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

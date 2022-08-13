@@ -1,0 +1,11 @@
+rootProject.name = "EnjoyStudy"
+include ':app'
+include ':annotation'
+include ':compiler'
+include ':mylibrary'
+include ':customview'
+include ':skinmanage'
+include ':materialdesign'
+include ':webview'
+include ':common'
+include ':base'
